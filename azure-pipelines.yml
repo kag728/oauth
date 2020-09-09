@@ -7,7 +7,7 @@ trigger:
 - master
 
 pr:
- drafts: false
+  drafts: false
 
 pool: 'Default'
 
