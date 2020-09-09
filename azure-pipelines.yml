@@ -5,7 +5,8 @@
 
 trigger:
 - master
-
+pr:
+ drafts: false
 pool: 'Default'
 
 steps:
